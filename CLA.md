@@ -48,3 +48,7 @@ Unless required by law or agreed in writing, You provide Your Contributions "AS 
 ## 8. Credit
 
 We may credit You for Your Contributions, for example in release notes or a contributors list, using Your GitHub username or the name You provide.
+
+## 9. Governing law
+
+This Agreement is governed by the laws of the State of West Virginia, United States, without regard to its conflict of laws rules.
